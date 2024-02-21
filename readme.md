@@ -1,4 +1,4 @@
-# Random_btn_positioning
+## Random_btn_positioning
 
 This small repository contains files and code related to a project for Valentine's Day, which also contains simple js script to randomly change position of one of the buttons.
 
